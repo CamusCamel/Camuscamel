@@ -1,6 +1,7 @@
-<img src="https://media.giphy.com/media/5NrHGzu1oUqQ5NHQTz/giphy.gif"> <a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
+<img src="https://media.giphy.com/media/5NrHGzu1oUqQ5NHQTz/giphy.gif"> 
+<a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 
-### Hello there. 👋
+### Hola, I'm a collection of organic molecules called ## Gloria. 
 
 
 <!--
