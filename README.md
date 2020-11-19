@@ -7,7 +7,8 @@
 
 <a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 
-### Hello, I am Gloria! 
+### Hello, I am Gloria! :blue_heart:
+
 </p>
 
 <!--
