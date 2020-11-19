@@ -1,6 +1,8 @@
+<img src="https://media.giphy.com/media/1e0JzHEhzQw0QXFQQY/giphy.gif">
+<a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 ### Hello there. 👋
 
-<img src="https://media.giphy.com/media/1e0JzHEhzQw0QXFQQY/giphy.gif">
+
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
