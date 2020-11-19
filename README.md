@@ -1,10 +1,13 @@
-![Hello](https://user-images.githubusercontent.com/26775620/99732454-2550c780-2a85-11eb-9ea0-13483e4d8937.png)
+
+<p align="center">
+  ![Hello](https://user-images.githubusercontent.com/26775620/99732454-2550c780-2a85-11eb-9ea0-13483e4d8937.png)
 
 ![Version control (6)](https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif)
+
 <a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 
 ### Hello, I am Gloria! 
-
+</p>
 
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
