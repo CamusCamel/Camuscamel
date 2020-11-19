@@ -1,6 +1,7 @@
 ![Hello](https://user-images.githubusercontent.com/26775620/99732454-2550c780-2a85-11eb-9ea0-13483e4d8937.png)
 
-<img src="https://media.giphy.com/media/5NrHGzu1oUqQ5NHQTz/giphy.gif"> 
+![Version control (5)](https://user-images.githubusercontent.com/26775620/99732592-5f21ce00-2a85-11eb-99c6-006507d23ec3.gif)
+
 <a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 
 ### Hello, I am Gloria! 
