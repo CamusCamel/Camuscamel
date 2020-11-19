@@ -7,7 +7,7 @@
 
 <a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
 
-### Hello, I am Gloria!  :woman_technologist_light_skin_tone:  :blue_heart:
+### Hello, I am Gloria!  👩🏻‍💻  :blue_heart:
 
 </p>
 
