@@ -7,7 +7,7 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
 <details>
   <summary>Click to learn more about me! 👩🏻‍💻</summary>
   
-  Even more curious? Cool. 
+  ### Even more curious? Cool. 
   
   I was born and raised in Austin, Tx - except for two short stints in Mexico and San Antonio. Long story for another time. 
   
