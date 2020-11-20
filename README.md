@@ -39,7 +39,7 @@ My dream job would be somewhere where there was space that allowed me to be crea
   
 </details>
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ## I am currently working on... 
 
