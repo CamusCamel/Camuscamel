@@ -53,12 +53,12 @@
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ### I am currently working on... 
-:black_nib: Building my website. Will add link when done!
+:black_heart: Building my website. Will add link when done!
    
-:black_nib: Studying to be Associate AWS developer certfication. 
+:black_heart: Studying to be Associate AWS developer certfication. 
  
  ### I am currently learning... 
- :black_nib: React! 
+ :black_heart: React! 
 
 ### Feel free to reach out to me! I love meeting other awesome tech people.
 :bird: I like to chirp at others on [here](https://twitter.com/gitgloria)
