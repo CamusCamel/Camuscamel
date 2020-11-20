@@ -19,13 +19,13 @@ My dream job would be somewhere where there was space that allowed me to be crea
   
   I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
   
-  ### My story on how I got into programming: 
+  ### My story on how I got into programming: :keyboard:
   
  * Back in 2016, I was just a student studying biochem and hating every minute. Don't get me wrong, though. I love learning, but it was pretty rough sitting in those classes. I had really enjoyed chemistry and biology in high school, but I lost that enthusiasm in college. It could have been the instructors, or even just personal things happening in my life. Regardless, I wanted to switch majors, but had no clue as to what I wanted to do with my life.
   
  * It wasn't until one fateful night during summer, that while googling 'Monty Python memes' - I discoverd my calling finally. I came across the link to [Python (Programming Language)](https://en.wikipedia.org/wiki/Python_(programming_language)). When I saw that, I thought * What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
   
-  **Little fun fact:** *Python is actually named after Monty Python. Another reason why Python is so great.*
+  **Little fun fact:** *Python is actually named after Monty Python. Another reason why Python is so great.* :snake:
  
  * When I looked at the link, nothing really made sense at first. So as it goes on the internet, I went down the rabbit hole of information trying to understand what the heck I came across. Finding out you could actually communicate with a computer was just an insane concept to me. I had to learn more. I did learn more. I then took on "Learn Python the Hard Way" and did so much coding over the summer. It was the most fun that I had had in awhile. It inspired me to try a class in programming the following semester. 
   
@@ -39,15 +39,15 @@ My dream job would be somewhere where there was space that allowed me to be crea
   
 </details>
 
-## I am currently working on...
+## I am currently working on... :crystal_ball:
 
  * Building my personal website! Stay tuned for a link to it. 
  * Studying to get my Associate AWS Certification
  
- ## I am currently learning... 
+ ## I am currently learning... :computer:
  * React! 
 
-## Feel free to reach out to me! I will just chill here.
+## Feel free to reach out to me! I will just chill here. :ghost:
 
 ![Version control (6)](https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif)
 
