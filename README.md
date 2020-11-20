@@ -53,12 +53,12 @@
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ### I am currently working on... 
-:black_circle: Building my website. Will add link when done!
+:black_small_square: Building my website. Will add link when done!
    
-:black_circle: Studying to be Associate AWS developer certfication. 
+:black_small_square: Studying to be Associate AWS developer certfication. 
  
- ### I am currently learning... 
- :black_circle: React! 
+### I am currently learning... 
+:black_small_square: React! 
 
 ### Feel free to reach out to me! I love meeting other awesome tech people.
 :bird: I like to chirp at others on [here](https://twitter.com/gitgloria)
