@@ -12,7 +12,7 @@
    
    I have so many interests. We will have to see what life has in store for me. Can't wait to see!
    
-   ### Want to read more? Click below.  
+   ### Want to read more? Click below.  :black_cat:
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -66,9 +66,9 @@
 :small_blue_diamond: I connect with others on LinkedIn. Will add later.
    
 ### Awesome Latinx Communities
- :sparkles:[Latinas in Tech](https://www.latinasintech.org/)
+ :black_small_square:[Latinas in Tech](https://www.latinasintech.org/)
 
- :sparkles:[Techqueria](https://techqueria.org/)
+ :black_small_square:[Techqueria](https://techqueria.org/)
    
 ### Image Sauces
 
