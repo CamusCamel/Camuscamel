@@ -19,7 +19,7 @@
   
   * I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
   
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/26775620/99746023-85ecfe00-2a9f-11eb-8f65-6309ba92b71e.gif">
+  <img align="right" width="700" height="700" src="https://user-images.githubusercontent.com/26775620/99746023-85ecfe00-2a9f-11eb-8f65-6309ba92b71e.gif">
   
   ### My story on how I got into programming: :keyboard:
   
