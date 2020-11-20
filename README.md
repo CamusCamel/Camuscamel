@@ -17,7 +17,7 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
   
   I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
   
-  ## My story on how I got into programming: 
+  ### My story on how I got into programming: 
   
  * Back in 2016, I was just a student studying biochem and hating every minute. Don't get me wrong, though. I love learning, but it was pretty rough sitting in those classes. I had really enjoyed chemistry and biology in high school, but I lost that enthusiasm in college. It could have been the instructors, or even just personal things happening in my life. Regardless, I wanted to switch majors, but had no clue as to what I wanted to do with my life.
   
