@@ -4,9 +4,13 @@
 
 ## About Me (She/Her) 👩🏻‍💻
 
-   **Hello world!** I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! My skillset is strong in Swift, Python, C, Java and Go! 
-
+   **Hello world!** I currently work as an iOS developer and have done so for about a year now. I graduated in May 2019 with a degree in computer science and a concentration in cloud computing. My skillset is strong in Swift, Python, C, Java and the occasional Go! However, I have been dipping my toes into front-end developement and quantum computing as of lately. 
    
+   I am very aesthetic-orientated, so front-end really allows me to tap into that side of me. I have been focusing on HTML, CSS, Javascript and React. It has been a lot of fun! As for quantum computing, it combines my interests of phyiscs and computer science. 
+   
+   It is such a new field with so many discoveries to be made that I can't help wanting to join in on the party. Not to mention, I love that the majority of programming in the quantum field uses Python(my first programming language) and also, they just have an awesome community around it. Looking at you, Qiskit. 
+   
+   I have so many interests. We will have to see what life has in store for me. Can't wait to see!
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -46,21 +50,28 @@
 
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
-## 
-* I am currently working on... 
-   * Building stuff
-   * Studying stuff
+## I am currently working on... 
+   Building my website. Will add link when done!
+   Studying to be Associate AWS developer certfication. 
  
  ## I am currently learning... 
-   More iOS! 
+   React! 
 
 ## Feel free to reach out to me! I love meeting other awesome tech people.
    I like to chirp at others on [here](https://twitter.com/gitgloria)
    
    I connect with others on LinkedIn. Will add later.
    
-### Sources
-<a href="https://stories.freepik.com/work">Illustrations by Freepik Stories</a>
+## Awesome Latinx Communities
+[Latinas in Tech](https://www.latinasintech.org/)
+[Techqueria](https://techqueria.org/)
+   
+### Image Sauces
+
+Created banner [here](https://www.canva.com/), use either facebook cover or tumblr banner for the templates.
+
+Gif image: <a href="https://stories.freepik.com/work">Illustrations by Freepik Stories</a>
+
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
