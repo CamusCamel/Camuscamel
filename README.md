@@ -9,6 +9,8 @@
    <details>
   <summary>Click to read more about my recent interests in front-end and quantum! :blue_heart: </summary>
   
+  
+  
    I am very aesthetic-orientated, so front-end really allows me to tap into that side of me. I have been focusing on HTML, CSS, Javascript and React. It has been a lot of fun! As for quantum computing, it combines my interests of phyiscs and computer science. 
    
    It is such a new field with so many discoveries to be made that I can't help wanting to join in on the party. Not to mention, I love that the majority of programming in the quantum field uses Python(my first programming language) and also, they just have an awesome community around it. Looking at you, Qiskit. 
