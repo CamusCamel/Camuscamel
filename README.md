@@ -43,11 +43,14 @@ My dream job would be somewhere where there was space that allowed me to be crea
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ## I am currently working on... 
-   - Building ...
-   - Studying ...
+   1. Building 
+    * stuff
+   2. Studying ...
+    * more stuff
  
  ## I am currently learning... 
-   - More iOS! 
+   * 
+    * More iOS! 
 
 ## Feel free to reach out to me! I love meeting other awesome tech people.
  - I like to chirp at others on [here](https://twitter.com/gitgloria)
