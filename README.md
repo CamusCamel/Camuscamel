@@ -6,11 +6,16 @@
 
    **Hello world!** I currently work as an <ins>iOS developer</ins> and have done so for about a year now. I graduated in May 2019 with a degree in computer science and a concentration in cloud computing. My skillset is strong in <ins>Swift</ins>, <ins>Python</ins>, <ins>C</ins>, <ins>Java</ins> and the occasional <ins>Go</ins>! ***However, I have been dipping my toes into front-end developement and quantum computing as of lately.*** 
    
+   <details>
+  <summary>Click to read more about my recent interests in front-end and quantum! :blue_heart: </summary>
+  
    I am very aesthetic-orientated, so front-end really allows me to tap into that side of me. I have been focusing on HTML, CSS, Javascript and React. It has been a lot of fun! As for quantum computing, it combines my interests of phyiscs and computer science. 
    
    It is such a new field with so many discoveries to be made that I can't help wanting to join in on the party. Not to mention, I love that the majority of programming in the quantum field uses Python(my first programming language) and also, they just have an awesome community around it. Looking at you, Qiskit. 
    
    I have so many interests. We will have to see what life has in store for me. Can't wait to see!
+   
+   </details>
    
    ### Want to read more? Click below.
 
