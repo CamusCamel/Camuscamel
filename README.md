@@ -2,9 +2,9 @@
 
 ## About Me (She/Her) 👩🏻‍💻
 
-Hello world! I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! Specialty is in Swift, Python, C, Java and Go! 
+Hello world! I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! My skillset is strong in Swift, Python, C, Java and Go! 
 
-My dream job would be somewhere there was space for me to be creative and to grow. Bonus points if my work contributes to making a difference in the world. 
+My dream job would be somewhere where there was space that allowed me to be creative and supported my growth. Bonus points if my work contributes to making a difference in the world. Even more bonus points if they (really do) care about diversity and the environment! 
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -41,17 +41,17 @@ My dream job would be somewhere there was space for me to be creative and to gro
 
 ## I am currently working on...
 
- - Building my personal website! Stay tuned for a link to it. 
- - Getting my AWS Certified Developer - Associate
+ * Building my personal website! Stay tuned for a link to it. 
+ * Getting my AWS Certified Developer - Associate
  
- ## I am currentlu learning... 
- - React! 
+ ## I am currently learning... 
+ * React! 
 
 ## Feel free to reach out to me! I will just chill here.
 
 ![Version control (6)](https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif)
 
-<a href="https://stories.freepik.com/web">Illustration by Freepik Stories</a>
+
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
