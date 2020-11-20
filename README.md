@@ -37,6 +37,9 @@ My dream job would be somewhere where there was space that allowed me to be crea
   
   ### Ni!
   
+  <img align="center" width="300" height="200" src="https://giphy.com/explore/knights-who-say-ni">
+  
+  
 </details>
 
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
