@@ -42,7 +42,7 @@ My dream job would be somewhere where there was space that allowed me to be crea
 ## I am currently working on...
 
  * Building my personal website! Stay tuned for a link to it. 
- * Getting my AWS Certified Developer - Associate
+ * Studying to get my Associate AWS Certification
  
  ## I am currently learning... 
  * React! 
