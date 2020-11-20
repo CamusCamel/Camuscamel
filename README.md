@@ -55,10 +55,10 @@
 ### I am currently working on... 
 :rice_ball: Building my website. Will add link when done!
    
-:black_small_square: Studying to be Associate AWS developer certfication. 
+:rice_ball: Studying to be Associate AWS developer certfication. 
  
 ### I am currently learning... 
-:black_small_square: React! 
+:rice_ball: React! 
 
 ### Feel free to reach out to me! I love meeting other awesome tech people.
 :bird: I like to chirp at others on [here](https://twitter.com/gitgloria)
@@ -66,9 +66,9 @@
 :small_blue_diamond: I connect with others on LinkedIn. Will add later.
    
 ### Awesome Latinx Communities
- :black_small_square:[Latinas in Tech](https://www.latinasintech.org/)
+ :rice_ball:[Latinas in Tech](https://www.latinasintech.org/)
 
- :black_small_square:[Techqueria](https://techqueria.org/)
+ :rice_ball:[Techqueria](https://techqueria.org/)
    
 ### Image Sauces
 
