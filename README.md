@@ -11,6 +11,8 @@
    It is such a new field with so many discoveries to be made that I can't help wanting to join in on the party. Not to mention, I love that the majority of programming in the quantum field uses Python(my first programming language) and also, they just have an awesome community around it. Looking at you, Qiskit. 
    
    I have so many interests. We will have to see what life has in store for me. Can't wait to see!
+   
+   ### Want to read more? I write a lot. I know. 
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -50,20 +52,20 @@
 
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
-## I am currently working on... 
+### I am currently working on... 
    Building my website. Will add link when done!
    
    Studying to be Associate AWS developer certfication. 
  
- ## I am currently learning... 
+ ### I am currently learning... 
    React! 
 
-## Feel free to reach out to me! I love meeting other awesome tech people.
+### Feel free to reach out to me! I love meeting other awesome tech people.
    I like to chirp at others on [here](https://twitter.com/gitgloria)
    
    I connect with others on LinkedIn. Will add later.
    
-## Awesome Latinx Communities
+### Awesome Latinx Communities
 [Latinas in Tech](https://www.latinasintech.org/)
 
 [Techqueria](https://techqueria.org/)
