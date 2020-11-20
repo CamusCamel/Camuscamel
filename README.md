@@ -12,7 +12,7 @@
    
    I have so many interests. We will have to see what life has in store for me. Can't wait to see!
    
-   ### Want to read more? Click below.  :black_cat:
+   ### Want to read more? Click below.
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -53,7 +53,7 @@
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ### I am currently working on... 
-:black_small_square: Building my website. Will add link when done!
+:rice_ball: Building my website. Will add link when done!
    
 :black_small_square: Studying to be Associate AWS developer certfication. 
  
