@@ -35,10 +35,7 @@ My dream job would be somewhere where there was space that allowed me to be crea
  
   * Yeah. Programming is pretty damn cool, and I am glad Monty Python brought us together. 
   
-  ### Ni!
-
-  <img align="center" width="300" height="200" src="https://media.giphy.com/media/NYAsecl6zojjG/giphy.gif">
-  
+  [**Ni!***](https://www.youtube.com/watch?v=zIV4poUZAQo)
   
 </details>
 
