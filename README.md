@@ -6,7 +6,7 @@
 
    **Hello world!** I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! My skillset is strong in Swift, Python, C, Java and Go! 
 
-   My dream job would be somewhere where there was space that allowed me to be creative and supported my growth. Bonus points if my work contributes to making a difference in the world. Even more bonus points if they (really do) care about diversity and the environment! 
+   
 
 <details>
   <summary>Click to learn more about me! :blue_heart: </summary>
@@ -20,6 +20,8 @@
   * I love film. My fave film makers are Greta Gerwig, Richard Linklater (before trilogy), Alejandro Jodrowsky, Jean Luc Godard, Wes Anderson and Tarantino. 
   
   * I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
+  
+  * Koreaboo first, weaboo second. 
   
   ### My story on how I got into programming: :keyboard:
   
@@ -38,16 +40,16 @@
   * Yeah. Programming is pretty damn cool, and I am glad Monty Python brought us together. 
   
 
-  [**Ni!**](https://www.youtube.com/watch?v=zIV4poUZAQo)
-  
+  [**Ni!**](https://www.youtube.com/watch?v=zIV4poUZAQo) 
   
 </details>
 
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
-## I am currently working on... 
-   Building stuff
-   Studying stuff
+## 
+* I am currently working on... 
+   * Building stuff
+   * Studying stuff
  
  ## I am currently learning... 
    More iOS! 
