@@ -39,12 +39,12 @@ My dream job would be somewhere where there was space that allowed me to be crea
   
 </details>
 
-## I am currently working on... :crystal_ball:
+## I am currently working on... 
 
  * Building my personal website! Stay tuned for a link to it. 
  * Studying to get my Associate AWS Certification
  
- ## I am currently learning... :computer:
+ ## I am currently learning... 
  * React! 
 
 ## Feel free to reach out to me! I will just chill here. :ghost:
