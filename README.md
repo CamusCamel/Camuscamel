@@ -4,7 +4,7 @@
 
 ## About Me (She/Her) 👩🏻‍💻
 
-   **Hello world!** I currently work as an iOS developer and have done so for about a year now. I graduated in May 2019 with a degree in computer science and a concentration in cloud computing. My skillset is strong in Swift, Python, C, Java and the occasional Go! However, I have been dipping my toes into front-end developement and quantum computing as of lately. 
+   **Hello world!** I currently work as an <ins>iOS developer</ins> and have done so for about a year now. I graduated in May 2019 with a degree in computer science and a concentration in cloud computing. My skillset is strong in <ins>Swift</ins>, <ins>Python</ins>, <ins>C</ins>, <ins>Java</ins> and the occasional <ins>Go</ins>! ***However, I have been dipping my toes into front-end developement and quantum computing as of lately.*** 
    
    I am very aesthetic-orientated, so front-end really allows me to tap into that side of me. I have been focusing on HTML, CSS, Javascript and React. It has been a lot of fun! As for quantum computing, it combines my interests of phyiscs and computer science. 
    
