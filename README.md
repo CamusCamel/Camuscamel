@@ -23,7 +23,7 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
   
  * It wasn't until one fateful night during summer, that while googling 'Monty Python memes' - I discoverd my calling finally. I came across the link to [Python (Programming Language)](https://en.wikipedia.org/wiki/Python_(programming_language)). When I saw that, I thought * What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
   
-  **Little fun fact:** Python is actually named after Monty Python. Another reason why Python is so great.
+  **Little fun fact:** *Python is actually named after Monty Python. Another reason why Python is so great.*
  
  * When I looked at the link, nothing really made sense at first. So as it goes on the internet, I went down the rabbit hole of information trying to understand what the heck I came across. Finding out you could actually communicate with a computer was just an insane concept to me. I had to learn more. I did learn more. I then took on "Learn Python the Hard Way" and did so much coding over the summer. It was the most fun that I had had in awhile. It inspired me to try a class in programming the following semester. 
   
@@ -33,7 +33,7 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
  
   * Yeah. Programming is pretty damn cool, and I am glad Monty Python brought us together. 
   
-  **Ni!**
+  ### Ni!
   
   
   
