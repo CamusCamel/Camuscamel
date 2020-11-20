@@ -23,7 +23,7 @@
   
  * Back in 2016, I was just a student studying biochem and hating every minute. Don't get me wrong, though. I love learning, but it was pretty rough sitting in those classes. I had really enjoyed chemistry and biology in high school, but I lost that enthusiasm in college. It could have been the instructors, or even just personal things happening in my life. Regardless, I wanted to switch majors, but had no clue as to what I wanted to do with my life.
   
- * It wasn't until one fateful night during summer, that while googling 'Monty Python memes' - I discoverd my calling finally. I came across the link to [Python (Programming Language)](https://en.wikipedia.org/wiki/Python_(programming_language)). When I saw that, I thought * What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
+ * It wasn't until one fateful night during summer, that while googling 'Monty Python memes' - I discoverd my calling finally. I came across the link to [Python (Programming Language)](https://en.wikipedia.org/wiki/Python_(programming_language)). When I saw that, I thought *What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
   
   **Little fun fact:** *Python is actually named after Monty Python. Another reason why Python is so great.* :snake:
  
