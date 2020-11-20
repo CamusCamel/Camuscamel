@@ -5,7 +5,7 @@
 Hello world! I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! Specialty is in Swift, Python, C, Java and Go! 
 
 <details>
-  <summary>Click for a longer about me section! 👩🏻‍💻 </summary>
+  <summary>**Click for a longer about me section! 👩🏻‍💻**</summary>
   
   Even more curious? Ok. 
   
