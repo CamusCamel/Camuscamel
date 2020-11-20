@@ -53,22 +53,22 @@
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ### I am currently working on... 
-   Building my website. Will add link when done!
+   * Building my website. Will add link when done!
    
-   Studying to be Associate AWS developer certfication. 
+   * Studying to be Associate AWS developer certfication. 
  
  ### I am currently learning... 
-   React! 
+   * React! 
 
 ### Feel free to reach out to me! I love meeting other awesome tech people.
-   I like to chirp at others on [here](https://twitter.com/gitgloria)
+   * I like to chirp at others on [here](https://twitter.com/gitgloria)
    
-   I connect with others on LinkedIn. Will add later.
+   * I connect with others on LinkedIn. Will add later.
    
 ### Awesome Latinx Communities
-[Latinas in Tech](https://www.latinasintech.org/)
+* [Latinas in Tech](https://www.latinasintech.org/)
 
-[Techqueria](https://techqueria.org/)
+* [Techqueria](https://techqueria.org/)
    
 ### Image Sauces
 
