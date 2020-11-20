@@ -1,13 +1,13 @@
 ![Hello](https://user-images.githubusercontent.com/26775620/99732454-2550c780-2a85-11eb-9ea0-13483e4d8937.png)
 
-## About Me (She/Her) :blue_heart:
+## About Me (She/Her) 👩🏻‍💻
 
 Hello world! I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! Specialty is in Swift, Python, C, Java and Go! 
 
 My dream job would be somewhere there was space for me to be creative and to grow. Bonus points if my work contributes to making a difference in the world. 
 
 <details>
-  <summary>Click to learn more about me! 👩🏻‍💻</summary>
+  <summary>Click to learn more about me! :blue_heart: </summary>
   
   ### Even more curious? Cool. 
   
@@ -47,7 +47,7 @@ My dream job would be somewhere there was space for me to be creative and to gro
  ## I am currentlu learning... 
  - React! 
 
-## Feel free to reach out to me!
+## Feel free to reach out to me! I will just chill here.
 
 ![Version control (6)](https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif)
 
@@ -55,14 +55,3 @@ My dream job would be somewhere there was space for me to be creative and to gro
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
