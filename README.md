@@ -61,14 +61,14 @@
    React! 
 
 ### Feel free to reach out to me! I love meeting other awesome tech people.
-   I like to chirp at others on [here](https://twitter.com/gitgloria)
+:bird: I like to chirp at others on [here](https://twitter.com/gitgloria)
    
-   I connect with others on LinkedIn. Will add later.
+:small_blue_diamond: I connect with others on LinkedIn. Will add later.
    
 ### Awesome Latinx Communities
- [Latinas in Tech](https://www.latinasintech.org/)
+ :sparkles:[Latinas in Tech](https://www.latinasintech.org/)
 
- [Techqueria](https://techqueria.org/)
+ :sparkles:[Techqueria](https://techqueria.org/)
    
 ### Image Sauces
 
