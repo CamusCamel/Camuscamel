@@ -29,9 +29,9 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
   
   I took programming I, and found that it was the most enjoyable class I had taken thus far in my college career. I had to keep learning more. Soon after finishing the class, I swtiched my major to computer science. My favorite classes were all of my programming classes. Everything else paled in comparison, and honestly, it was the classes I did the best in. 
   
-  Funny how life can develop by serendipitous discoveries. I genuinely believe that programming and engineering is modern day magic. Every line of code is a line in an incantation. Every variable is an ingredient in a spell; so that you can bring into existence something that wasn't there before. You can literally create anything with it and apply it to any field. Even art. 
+  Funny how life can develop by serendipitous discoveries. I genuinely believe that programming and engineering is modern day magic. Every line of code is a line in an incantation. Every variable is an ingredient in a spell; so that you can bring into existence something that wasn't there before. You can literally create anything with it and apply it to any field. Even art. It is amazing. 
 
-  > Yeah. Programming is pretty damn cool, and I am glad Monty Python brought us together. 
+  > TLDR: Yeah. Programming is pretty damn cool, and I am glad Monty Python brought us together. 
   
   **Ni!**
   
