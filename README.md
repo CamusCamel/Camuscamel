@@ -42,14 +42,15 @@ My dream job would be somewhere where there was space that allowed me to be crea
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ## I am currently working on... 
-  - Building my personal website! Stay tuned for a link to it. 
-  - Studying to get my Associate AWS Certification
+   - Building my personal website! Stay tuned for a link to it. 
+   - Studying to get my Associate AWS Certification
  
  ## I am currently learning... 
- - React! 
+   - React! 
 
 ## Feel free to reach out to me! I love meeting other awesome tech people.
- - 
+ - I like to chirp at others on [here](https://twitter.com/gitgloria)
+ - I connect with others on LinkedIn. Will add later.
 
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
