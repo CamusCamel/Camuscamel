@@ -19,8 +19,6 @@
   
   * I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
   
-  <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/26775620/99746023-85ecfe00-2a9f-11eb-8f65-6309ba92b71e.gif">
-  
   ### My story on how I got into programming: :keyboard:
   
  * Back in 2016, I was just a student studying biochem and hating every minute. Don't get me wrong, though. I love learning, but it was pretty rough sitting in those classes. I had really enjoyed chemistry and biology in high school, but I lost that enthusiasm in college. It could have been the instructors, or even just personal things happening in my life. Regardless, I wanted to switch majors, but had no clue as to what I wanted to do with my life.
