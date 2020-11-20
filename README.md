@@ -53,7 +53,7 @@
 <img align="left" width="600" height="600" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
 
 ### I am currently working on... 
-:small_blue_diamond: Building my website. Will add link when done!
+🐈‍⬛ Building my website. Will add link when done!
    
 :small_blue_diamond: Studying to be Associate AWS developer certfication. 
  
