@@ -11,13 +11,13 @@
   
   ### Even more curious? Cool. 
   
-   I was born and raised in Austin, Tx - except for two short stints in Mexico and San Antonio. Long story for another time. 
+  * I was born and raised in Austin, Tx - except for two short stints in Mexico and San Antonio. Long story for another time. 
   
-   I love reading, but I especially love poetry and topics on astronmy, physics and philosophy. My goal is to have my own library in the future. 
+  * I love reading, but I especially love poetry and topics on astronmy, physics and philosophy. My goal is to have my own library in the future. 
   
-   I love film. My fave film makers are Greta Gerwig, Richard Linklater (before trilogy), Alejandro Jodrowsky, Jean Luc Godard, Wes Anderson and Tarantino. 
+  * I love film. My fave film makers are Greta Gerwig, Richard Linklater (before trilogy), Alejandro Jodrowsky, Jean Luc Godard, Wes Anderson and Tarantino. 
   
-   I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
+  * I sprinkle those interests with pc gaming (Overwatch, Resident Evil and Little Nightmares are some faves), skateboarding and painting. 
   
   ### My story on how I got into programming: :keyboard:
   
@@ -38,6 +38,7 @@
 
   [**Ni!**](https://www.youtube.com/watch?v=zIV4poUZAQo)
   
+  
 </details>
 
 <img align="left" width="500" height="500" src="https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif">
@@ -47,11 +48,11 @@
    Studying stuff
  
  ## I am currently learning... 
-    
    More iOS! 
 
 ## Feel free to reach out to me! I love meeting other awesome tech people.
    I like to chirp at others on [here](https://twitter.com/gitgloria)
+   
    I connect with others on LinkedIn. Will add later.
 
 <!--
