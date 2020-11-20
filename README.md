@@ -55,6 +55,7 @@
    
    I connect with others on LinkedIn. Will add later.
 
+<a href="https://stories.freepik.com/work">Illustration by Freepik Stories</a>
 <!--
 **CamusCamel/Camuscamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
