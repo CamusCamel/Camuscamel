@@ -50,7 +50,7 @@ My dream job would be somewhere where there was space that allowed me to be crea
  
  ## I am currently learning... 
    * 
-    * More iOS! 
+     More iOS! 
 
 ## Feel free to reach out to me! I love meeting other awesome tech people.
  - I like to chirp at others on [here](https://twitter.com/gitgloria)
