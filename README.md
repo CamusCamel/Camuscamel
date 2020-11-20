@@ -9,7 +9,7 @@
    <details>
   <summary>Click to read more about my recent interests in front-end and quantum! :blue_heart: </summary>
   
-  
+  ###  
   
    I am very aesthetic-orientated, so front-end really allows me to tap into that side of me. I have been focusing on HTML, CSS, Javascript and React. It has been a lot of fun! As for quantum computing, it combines my interests of phyiscs and computer science. 
    
