@@ -66,9 +66,9 @@
 :small_blue_diamond: I connect with others on LinkedIn. Will add later.
    
 ### Awesome Latinx Communities
- :rice_ball:[Latinas in Tech](https://www.latinasintech.org/)
+ :rice_ball: [Latinas in Tech](https://www.latinasintech.org/)
 
- :rice_ball:[Techqueria](https://techqueria.org/)
+ :rice_ball: [Techqueria](https://techqueria.org/)
    
 ### Image Sauces
 
