@@ -1,8 +1,10 @@
 ![Hello](https://user-images.githubusercontent.com/26775620/99732454-2550c780-2a85-11eb-9ea0-13483e4d8937.png)
 
-# About Me :blue_heart:  
+# About Me (She/Her) :blue_heart:
 
 Hello world! I currently work as an iOS developer. However, I have been dipping my toes into front-end developement and quantum computing. Both have been very enjoyable! Specialty is in Swift, Python, C, Java and Go! 
+
+My dream job would be somewhere there was space for me to be creative and to grow. Bonus points if my work contributes to making a difference in the world. 
 
 <details>
   <summary>Click to learn more about me! 👩🏻‍💻</summary>
@@ -35,11 +37,17 @@ Hello world! I currently work as an iOS developer. However, I have been dipping 
   
   ### Ni!
   
-  
-  
 </details>
 
-# Thanks for reading this far. Reach out for whatever reason! I love meeting others in tech. 
+# I am currently working on...
+
+ - Building my personal website! Stay tuned for a link to it. 
+ - Getting my AWS Certified Developer - Associate
+ 
+ # I am currentlu learning... 
+ - React! 
+
+# Feel free to reach out to me!
 
 ![Version control (6)](https://user-images.githubusercontent.com/26775620/99732606-647f1880-2a85-11eb-9e48-181c7bbc5981.gif)
 
