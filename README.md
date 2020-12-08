@@ -29,7 +29,7 @@
   
  * It wasn't until one fateful night during summer, that while googling 'Monty Python memes' - I discoverd my calling finally. I came across the link, [Python (Programming Language)](https://en.wikipedia.org/wiki/Python_(programming_language)). 
  
- *What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
+ * *What the heck is a programming language? How does this relate to Monty Python?...* With those questions in mind and my curious nature, I clicked on the link. 
   
   **Little fun fact:** *Python is actually named after Monty Python. Another reason why Python is so great.* :snake:
  
